@@ -7,3 +7,4 @@ I'm currently learning Flutter for app development and Unity for game developmen
 In my spare time, I try to learn what I mentioned above, or just solving programming problems on [kattis.com](https://open.kattis.com/).  
 
 You can reach me out by sending an [e-mail](mailto:bangunnagoro@gmail.com).  
+And here is [my resume](https://github.com/SurgicalSteel/SurgicalSteel/blob/main/Resume%20Yuwono%20Bangun%20Nagoro%20November%202020.pdf)
