@@ -3,7 +3,7 @@ I am Yuwono Bangun Nagoro (a.k.a SurgicalSteel). My friends call me 'Bangun'. ([
 
 I'm currently working as a software engineer (backend) in Indonesia. My tech stacks are Go and Java.  
 I like to write code more than medium post. So, I do not have any medium post.  
-I'm currently learning Flutter for app development and programming in Python.  
+I'm currently learning Flutter for app development and programming in Scala.  
 In my spare time, I try to learn what I mentioned above, or just solving programming problems on [kattis.com](https://open.kattis.com/).  
 
 You can reach me out by sending an [e-mail](mailto:bangunnagoro@gmail.com).  
