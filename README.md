@@ -10,5 +10,5 @@ In my spare time, I try to learn what I mentioned above, or just solving program
 
 You can reach me out by sending an [e-mail](mailto:bangunnagoro@outlook.com).  
 You can also visit my [Kattis profile here](https://open.kattis.com/users/surgicalsteel).  
-You can also visit my [boring personal website here](https://ybn-iota.vercel.app)
+You can also visit my [boring personal website here](https://ybn-iota.vercel.app).  
 And here is [my résumé](https://github.com/SurgicalSteel/SurgicalSteel/blob/main/Yuwono_Bangun_Nagoro_Resume-October-2026.pdf).
